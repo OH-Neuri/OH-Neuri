@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 # 오하늘 OH HANEUL
 
