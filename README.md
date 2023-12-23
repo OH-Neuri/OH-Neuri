@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5383FF&height=200&section=header&text=Neuri%20Github!&fontSize=65&fontColor=DDE7FF" />
-</br>
+
 <div align ="center">
     <div>
         <h2>
@@ -8,7 +8,6 @@
       <div>
         <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOH-Neuri&count_bg=%237192FF&title_bg=%23202FB8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </div>
-    </br>
     <div>
       <h3> ✨ Front-end Stack ✨</h3>  
       <div>
@@ -39,7 +38,6 @@
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
         <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
     </div>
-    </br>
     <div>
       <h3> 🛠 Cowork tools 🛠 </h3>
       <div>
@@ -55,11 +53,11 @@
     </br>
      <div>
     <div>
-      
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moho009804)](https://solved.ac/moho009804/)
-
-      
+        
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moho009804)](https://solved.ac/moho009804/)
+  
+
 
       
   </div>
